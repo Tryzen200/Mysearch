@@ -1,0 +1,195 @@
+header {
+    text-align: center;
+}
+.ecoledirecte {
+    padding: 5px;
+    background-color: #0061fe;
+    color: #fff;
+    border: 5px;
+    border-color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+}
+.ecoledirecte:hover {
+    background-color: #3a87fe;
+    color: #fff;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.ecoledirecte img {
+    height: 15px;
+}
+.easter {
+    margin: auto;
+    display: flex;
+    width: 500px;
+    top: 40px;
+}
+input[type="text"] {
+    width: 30%;
+    padding: 13px;
+    margin: auto;
+    display: flex;
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+    border-radius: 15px;
+    border-style: none;
+    transition-duration: 0.4s;
+}
+input[type="text"]:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+input[type="submit"] {
+    padding: 5px;
+    background-color: #0061fe;
+    color: #fff;
+    border: 5px;
+    border-color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+    width: auto;
+    margin: auto;
+    display: flex;
+}
+.gdrive {
+    padding: 5px;
+    background-color: #008307;
+    color: #fff;
+    border: 5px;
+    border-color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+}
+.gdrive:hover {
+    background-color: #00a100;
+    color: #fff;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.gdrive img {
+    height: 15px;
+}
+input[type="submit"]:hover {
+    background-color: #3a87fe;
+    color: #fff;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+    body {
+    background-image: url(https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: 110%;
+}
+footer {
+    width: 93%;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #c4c4c4;
+    border-radius: 15px;
+    border-style: none;
+    transition-duration: 0.4s;
+}   
+
+.about {
+  color: #000000;
+}
+.about1 {
+  color: #000000;
+}
+
+.about {
+    padding: 5px;
+    background-color: #0061fe;
+    color: #fff;
+    border: 5px;
+    border-color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+}
+
+.retour {
+    padding: 5px;
+    background-color: #0061fe;
+    color: #fff;
+    border: 5px;
+    border-color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+    font-family: Arial;
+}
+
+.retour:hover {
+    background-color: #8fbcff;
+    color: #fff;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.about:hover {
+    background-color: #8fbcff;
+    color: #fff;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.button {
+  color: #000000;
+  font-family: Arial;
+}
+
+.about1 {
+  font-family: Arial;
+  color: #000000;
+}
+
+.header1 {
+  width: 93%;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  background-color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #c4c4c4;
+  border-radius: 15px;
+  border-style: none;
+  transition-duration: 0.4s;
+  text-align: center;
+}
+.settings {
+  width: auto;
+  padding: 20px;
+}
+.contact {
+    padding: 5px;
+    background-color: #3381ff;
+    color: #fff;
+    border: 5px;
+    border-color: #fff;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+    text-align: center;
+}
+
+.contact1 {
+  text-align: center;
+  font-family: Arial;
+  color: #000000;
+}
+.l1 {
+  text-decoration: unset;
+}
+
+.contact:hover {
+    background-color: #8fbcff;
+    color: #fff;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
